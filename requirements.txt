@@ -1,6 +1,7 @@
 pandas
 ipykernel
 ipywidgets
+matplotlib
 # Non-coursera version qdrant-client==1.7.2
 qdrant-client
 # Non-coursera version sentence-transformers==2.3.1
@@ -8,3 +9,5 @@ sentence-transformers
 openai
 numpy
 kagglehub
+python-dotenv
+scikit-image
